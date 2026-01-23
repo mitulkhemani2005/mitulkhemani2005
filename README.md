@@ -122,7 +122,7 @@ Currently hunting for **Data Science / ML internships** and **entry-level roles*
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khemanimitul@gmail.com)
-![Phone](https://img.shields.io/badge/Phone-+91 - 7470924433-25D366?style=for-the-badge&logo=phone&logoColor=white)
+![Phone](https://img.shields.io/badge/Phone-+91--7470924433-25D366?style=for-the-badge&logo=phone&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mitul-khemani)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitul-khemani)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=chrome&logoColor=white)](https://mitul-khemani.vercel.app)
