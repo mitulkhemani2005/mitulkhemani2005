@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #00D9FF; font-family: 'JetBrains Mono', monospace; font-size: 40px; margin: 20px 0;">
+  <h1 style="color: #00D9FF; font-family: 'JetBrains Mono', monospace; font-size: 64px; font-weight: 900; margin: 30px 0; letter-spacing: 3px; text-shadow: 0 0 20px rgba(0, 217, 255, 0.5);">
     Mitul Khemani
   </h1>
 </div>
