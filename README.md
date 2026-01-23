@@ -1,14 +1,14 @@
 <div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=Mitul+Khemani" alt="Name" />
+  </h1>
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=900&height=50&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing;Computer+Vision;Full+AI+Developer" alt="Specialization Slider" />
 </div>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Building+intelligent+systems+with+data"/>
-
-<div align="center">
-  <samp>
-    <b>Transforming raw data into impact-driven AI solutions</b>
-  </samp>
-</div>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=A8E6CF&center=true&vCenter=true&width=800&height=70&lines=Building+intelligent+systems+with+data;Turning+complexity+into+impact" alt="Tagline Animation" />
+</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=A8E6CF&center=true&vCenter=true&width=600&lines=🚀+DS%2FML+Engineer+in+Progress;🤖+GenAI+%2B+Automation+Enthusiast;💪+Growth-Driven+Problem+Solver" alt="Subtitles" />
