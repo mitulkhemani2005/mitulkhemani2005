@@ -7,7 +7,7 @@ import './globals.css'
 const _jetbrainsMono = JetBrains_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Mitul Khemani | ML & AI Developer',
+  title: 'Mitul Khemani',
   description: 'Machine Learning and AI developer passionate about building intelligent, scalable systems. Specializing in transformers, NLP, and production ML.',
   keywords: ['Machine Learning', 'AI', 'Data Science', 'Python', 'Deep Learning', 'NLP'],
   author: 'Mitul Khemani',

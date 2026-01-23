@@ -3,17 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-<<<<<<< HEAD
-    "build": "next build",
-    "dev": "next dev",
-    "lint": "eslint .",
-    "start": "next start"
-=======
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "eslint ."
->>>>>>> d2ec916fcfcbe34b34756e2fa7251c9bcc342703
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
@@ -53,11 +46,7 @@
     "embla-carousel-react": "8.5.1",
     "input-otp": "1.4.1",
     "lucide-react": "^0.454.0",
-<<<<<<< HEAD
     "next": "16.0.10",
-=======
-    "next": "16.0.0",
->>>>>>> d2ec916fcfcbe34b34756e2fa7251c9bcc342703
     "next-themes": "^0.4.6",
     "react": "19.2.0",
     "react-day-picker": "9.8.0",
@@ -68,11 +57,7 @@
     "sonner": "^1.7.4",
     "tailwind-merge": "^3.3.1",
     "tailwindcss-animate": "^1.0.7",
-<<<<<<< HEAD
     "vaul": "^1.1.2",
-=======
-    "vaul": "^0.9.9",
->>>>>>> d2ec916fcfcbe34b34756e2fa7251c9bcc342703
     "zod": "3.25.76"
   },
   "devDependencies": {
@@ -85,8 +70,4 @@
     "tw-animate-css": "1.3.3",
     "typescript": "^5"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> d2ec916fcfcbe34b34756e2fa7251c9bcc342703
