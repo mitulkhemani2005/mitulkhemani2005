@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=900&height=50&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing;Computer+Vision;Full+AI+Developer" alt="Specialization Slider" />
 </div>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Building+intelligent+systems+with+data" alt="Typing Animation" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Building+intelligent+systems+with+data"/>
 
 <div align="center">
   <samp>
