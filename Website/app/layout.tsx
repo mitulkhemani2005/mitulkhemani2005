@@ -18,8 +18,8 @@ export const metadata: Metadata = {
     type: 'website',
   },
   icons: {
-    // icon: '/mitulkhemani.jpg',
-    apple: '/mitulkhemani.jpg',
+    // icon: '/mitulkhemani.png',
+    apple: '/mitulkhemani.png',
   },
     generator: 'v0.app'
 }

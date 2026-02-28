@@ -180,7 +180,7 @@ export default function Portfolio() {
               <div className="relative w-48 h-48 sm:w-56 sm:h-56 lg:w-64 lg:h-64">
                 <div className="absolute inset-0 bg-gradient-to-br from-accent/30 to-accent/10 rounded-3xl blur-2xl animate-pulse" />
                 <div className="relative w-full h-full rounded-3xl overflow-hidden border-2 border-accent/30 shadow-2xl hover:shadow-accent/30 transition-all duration-500 hover:border-accent">
-                  <img src="/mitulkhemani.jpg" alt="Mitul Khemani" className="w-full h-full object-cover" />
+                  <img src="/mitulkhemani.png" alt="Mitul Khemani" className="w-full h-full object-cover" />
                 </div>
               </div>
             </div>
