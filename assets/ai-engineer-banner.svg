@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Mitul Khemani — AI Engineer</title>
+  <desc id="desc">Agentic systems, retrieval, and voice AI. A diagram connects an AI agent to tools, retrieval, and voice, then to an application.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#122637"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="1216" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#68E8CE"/>
+      <stop offset="1" stop-color="#77B9FF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#A2BFDB" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1278" height="438" rx="24" fill="url(#background)" stroke="#294057" stroke-width="2"/>
+  <rect x="16" y="16" width="1248" height="408" rx="16" fill="url(#grid)"/>
+  <rect x="64" y="58" width="38" height="4" rx="2" fill="url(#accent)"/>
+  <text x="116" y="66" fill="#9BB2C8" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="2">MITULKHEMANI2005</text>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="60" y="160" fill="#F0F6FC" font-size="64" font-weight="700" letter-spacing="-2">Mitul Khemani</text>
+    <text x="64" y="222" fill="#68E8CE" font-size="40" font-weight="600" letter-spacing="-1">AI Engineer</text>
+    <text x="64" y="272" fill="#C1D0DE" font-size="21">From language models to working systems.</text>
+    <rect x="64" y="308" width="164" height="34" rx="17" fill="#142E35" stroke="#2C5759"/>
+    <text x="146" y="330" fill="#9AEBD7" font-size="14" text-anchor="middle">AGENTIC SYSTEMS</text>
+    <rect x="240" y="308" width="114" height="34" rx="17" fill="#162B40" stroke="#2E4B67"/>
+    <text x="297" y="330" fill="#B6D5F6" font-size="14" text-anchor="middle">RETRIEVAL</text>
+    <rect x="366" y="308" width="108" height="34" rx="17" fill="#222A44" stroke="#414D71"/>
+    <text x="420" y="330" fill="#C4CDF6" font-size="14" text-anchor="middle">VOICE AI</text>
+  </g>
+  <g stroke="#45617B" stroke-width="2">
+    <path d="M822 206H850V116H888"/>
+    <path d="M822 206H888"/>
+    <path d="M822 206H850V296H888"/>
+    <path d="M1024 116H1062V206H1098"/>
+    <path d="M1024 206H1098"/>
+    <path d="M1024 296H1062V206H1098"/>
+  </g>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="16" text-anchor="middle">
+    <rect x="706" y="170" width="116" height="72" rx="14" fill="#153331" stroke="#68E8CE" stroke-width="2"/>
+    <text x="764" y="202" fill="#68E8CE" font-size="12" letter-spacing="2">REASON</text>
+    <text x="764" y="225" fill="#E5FFF8" font-weight="700">AGENT</text>
+    <rect x="888" y="92" width="136" height="48" rx="10" fill="#182C3E" stroke="#39556F"/>
+    <text x="956" y="122" fill="#C1D6EA">Tools</text>
+    <rect x="888" y="182" width="136" height="48" rx="10" fill="#182C3E" stroke="#39556F"/>
+    <text x="956" y="212" fill="#C1D6EA">Retrieval</text>
+    <rect x="888" y="272" width="136" height="48" rx="10" fill="#182C3E" stroke="#39556F"/>
+    <text x="956" y="302" fill="#C1D6EA">Voice</text>
+    <rect x="1098" y="170" width="116" height="72" rx="14" fill="#192C43" stroke="#77B9FF" stroke-width="2"/>
+    <text x="1156" y="202" fill="#77B9FF" font-size="12" letter-spacing="2">DELIVER</text>
+    <text x="1156" y="225" fill="#E4F0FF" font-weight="700">APP</text>
+  </g>
+  <g fill="#68E8CE">
+    <circle cx="850" cy="206" r="4"/>
+    <circle cx="1062" cy="206" r="4"/>
+  </g>
+  <path d="M64 378H1216" stroke="#294057"/>
+  <text x="64" y="407" fill="#8EA6BC" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="1">PYTHON / FASTAPI / SQL / AWS</text>
+  <text x="1216" y="407" text-anchor="end" fill="#8EA6BC" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="1">BUILD. CONNECT. SHIP.</text>
+</svg>
