@@ -1,144 +1,81 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=70&duration=1&pause=1&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Mitul+Khemani" alt="Mitul Khemani" />
-</div>
+<p align="center">
+  <img src="./assets/ai-engineer-banner.svg" width="100%" alt="Mitul Khemani — AI Engineer. Agentic systems, retrieval, and voice AI." />
+</p>
 
-<h2 align="center">
-  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=A8E6CF&center=true&vCenter=true&width=800&height=70&lines=Building+intelligent+systems+with+data;Turning+complexity+into+impact" alt="Tagline Animation" /> -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=900&height=50&lines=Data+Science;Data+Analytics;Machine+Learning;Natural+Language+Processing;Computer+Vision;Full+AI+Developer" alt="Specialization Slider" />
-</h2>
+<p align="center">
+  <a href="https://mitul-khemani.vercel.app/">Portfolio</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/mitul-khemani/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:khemanimitul@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://leetcode.com/u/khemanimitul/">LeetCode</a>
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=A8E6CF&center=true&vCenter=true&width=600&lines=🚀+DS%2FML+Engineer+in+Progress;🤖+GenAI+%2B+Automation+Enthusiast;💪+Growth-Driven+Problem+Solver" alt="Subtitles" />
-</div>
+## Building AI that does useful work.
 
----
+I'm **Mitul**, an AI engineer building applications that connect language models to tools, data, and real workflows. My work spans **agentic systems, RAG, and voice AI**, backed by Python APIs, SQL databases, and cloud deployment.
 
-## 👋 Who I Am
+Previously an **Artificial Intelligence Intern at LearningBIX**, where I built an AI avatar learning platform, developed retrieval for NCERT text and images, and fine-tuned and deployed F5-TTS. I'm completing my **B.Tech in Electronics and Communication Engineering at LNMIIT (2023–2027)**.
 
-I'm a third-year engineering student at **LNMIIT** (CGPA: 8.16) obsessed with **data science, machine learning, and generative AI**. I don't just learn from textbooks—I build. Every project is an experiment, every problem set is a real-world challenge. My philosophy: **consistency beats intensity**, and **impact matters more than perfection**.
+**Open to AI engineering internships, graduate roles, and collaborations.** [Let's connect →](mailto:khemanimitul@gmail.com)
 
-Currently hunting for **Data Science / ML internships** and **entry-level roles** at growth-stage companies and startups. I thrive in **remote-first environments**, love **asynchronous collaboration**, and I'm always ready to solve hard problems for ambitious teams.
+## Selected builds
 
----
+### 01 &nbsp; [AI Growth Commerce · Agentic Store](https://github.com/mitulkhemani2005/AI-Growth-Commerce-Agentic-Store)
 
-## 🎯 What I'm Actively Building Toward
+A commerce platform connecting a conversational shopping assistant with specialist agents for store operations. Built customer and dealer workflows around product discovery, cart actions, payments, order tracking, and refunds, with function calling and a SQL-backed API.
 
-- **🏢** Data Science / ML Internships & Fresher Roles
-- **🌍** Remote opportunities with global startups (Europe-friendly time zones welcome)
-- **💼** Freelance problem-solving & contract ML work
-- **🚀** Early-stage startup founding teams
-- **🔬** Research collaborations in GenAI & RAG systems
+**Focus:** Tool use · Multi-agent coordination · Business workflows<br />
+**Built with:** Python · FastAPI · SQL · Agentic AI
 
----
+### 02 &nbsp; [Ek Manch · AI Event Operating System](https://github.com/mitulkhemani2005/EkManch)
 
-## 🛠️ Core Technical Arsenal
+Turns natural language event requirements into websites, mobile apps, and promotional content. Built a multi-agent website builder, an AI content studio, and a React Native / Expo app pipeline using GitHub Actions and EAS.
 
-<div align="center">
+**Focus:** AI generation · Automated deployment · Full-stack orchestration<br />
+**Built with:** FastAPI · Supabase · React Native · Expo · AWS
 
-| **Languages** | **ML/AI** | **Tools & Deployment** |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+### 03 &nbsp; [AI World · Generational Life Simulation](https://github.com/mitulkhemani2005/AI-World-How-AI-Evolves-the-World)
 
-</div>
+An experimental playable world where two AI agents make survival and social decisions while their lives unfold across generations. A FastAPI simulation backend manages the world; an independent Three.js frontend displays it on a procedural globe.
 
-**Specialized Skills:**
-- 🧠 **NLP & Transformers** (BERT, GPT, RAG systems)
-- 🤖 **Generative AI** (Prompt Engineering, Fine-tuning, API Integration)
-- 📊 **Data Pipelines** (ETL, preprocessing, feature engineering)
-- 🎯 **Forecasting & Time Series** (LSTM, XGBoost, demand prediction)
-- 🔗 **System Architecture** (Microservices, APIs, CI/CD)
+**Focus:** Agent decision-making · Local inference · Simulation systems<br />
+**Built with:** Python · FastAPI · SQLite · Ollama · Three.js
 
----
+**More to explore:** [F5-TTS work](https://github.com/mitulkhemani2005/TTS_MODEL-F5_TTS) · [Customer support AI](https://github.com/mitulkhemani2005/Auto-Healing-Customer-Chat-Support) · [All repositories](https://github.com/mitulkhemani2005?tab=repositories)
 
-## 💭 How I Work
+## Engineering toolkit
 
-✅ **Ownership-driven** — I own projects end-to-end, from conception to deployment  
-✅ **Consistency over heroics** — I show up daily and compound small wins  
-✅ **Learning in public** — I document my journey and share insights openly  
-✅ **Impact-first thinking** — Every line of code solves a real problem  
-✅ **Practical problem solver** — Theory is useful, but *results* matter  
+| Area | Technologies & practice |
+| :--- | :--- |
+| **Generative & agentic AI** | LLMs, multi-agent systems, function calling, prompt engineering |
+| **Retrieval & voice** | RAG, ChromaDB, text and image retrieval, F5-TTS fine-tuning |
+| **APIs & data** | Python, FastAPI, Flask, REST APIs, SQL |
+| **Deployment** | AWS, Docker, Git, CI/CD, GitHub Actions |
+| **ML foundations** | PyTorch, TensorFlow, NumPy, Pandas |
+| **Software foundations** | C++, data structures & algorithms, OOP, debugging, testing |
 
----
+## Experience in practice
 
-## 🚀 Featured Projects & Achievements
+**Artificial Intelligence Intern · LearningBIX**<br />
+April–July 2026 · Hybrid
 
-### 🏆 **Auto-Healing Customer Chat Support System** `January 2026`
-- Designed intelligent chatbot using **BERT** (intent classification) + **GPT** (response generation)
-- Built ETL pipelines for historical data → achieved **80% classification accuracy**
-- FastAPI backend for real-time responses with human handoff capability
-- *Hackathon Finalist at NIT Delhi*
+- Built and deployed an **AI avatar learning platform**, integrating conversational AI, tutoring, and voice through REST APIs.
+- Developed a **NCERT RAG system for text and images** to ground responses in relevant learning material.
+- Debugged LLM-related bottlenecks in a **Smart Question Paper Generator** and improved its shipping pipeline.
+- Fine-tuned and deployed **F5-TTS** for voice synthesis and maintained the production service.
 
-### 💰 **E-Commerce Price & Stock Recommendation Engine** `December 2025`
-- Automated competitor monitoring via web scraping + daily updates
-- **XGBoost model** predicting demand with **82% accuracy**
-- Deployed via Docker + CI/CD → **60% faster deployments**
-- Streamlit frontend for interactive insights
+Outside AI, I also built and deployed the [Hotel Shreegopal website](http://hotelshreegopal.online/) with a responsive interface and a booking flow.
 
-### 📈 **Real-Time Stock Price Prediction System** `November 2025`
-- LSTM-based forecasting for next-day + next-minute predictions
-- Automated ETL pipelines with dynamic retraining per ticker
-- Flask API deployed on Render for live market data ingestion
+## Milestones
 
-### 🎓 **Guru Setu: AI Teacher Support System** `October 2025`
-- **GenAI + RAG** integration for question generation, summaries, voice assistance
-- Tested with 50+ academic queries → **80% response relevance**
-- Voice-enabled interface with Google OAuth authentication
-- *Team Leader | Selected for technical innovation*
+- **AMD Slingshot · Regional finalist** — Led a three-member team presenting Ek Manch; top 100 teams nationally, with 5,000+ participants.
+- **NIT Delhi Hackathon · Finalist** — Shortlisted among the top 65 teams from 400+ submissions.
+- **LeetCode · Knight** — 490+ data structures and algorithms problems solved.
 
 ---
 
-## 🔥 Current Focus Areas
-
-| Area | What I'm Doing |
-|------|-----------------|
-| **ML Ops & Automation** | Building scalable pipelines, experimenting with fine-tuning workflows |
-| **GenAI Exploration** | Prompt engineering, RAG optimization, integrating cutting-edge APIs |
-| **Problem Solving** | Daily DSA practice, SQL optimization challenges, system design thinking |
-| **Portfolio Building** | Publishing polished projects with documentation, blogging insights |
-| **Networking** | Contributing to open-source, engaging with ML communities, connecting with founders |
-
----
-
-## 📫 Looking For Right Now?
-
-🎯 **I'm actively accepting:**
-- Data Science / ML internships (immediate start)
-- Contract ML engineering work
-- Freelance data analysis & modeling projects
-- Conversations with founders building AI-first products
-- Research collaborations in NLP & generative AI
-
-**Let's talk if you're building something ambitious and need someone who:**
-- Thinks in systems and outcomes, not just code
-- Moves fast without cutting corners
-- Actually ships things
-
----
-
-## 🔗 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khemanimitul@gmail.com)
-![Phone](https://img.shields.io/badge/Phone-+91--7470924433-25D366?style=for-the-badge&logo=phone&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mitul-khemani)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitul-khemani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=chrome&logoColor=white)](https://mitul-khemani.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&duration=3000&pause=2000&color=A8E6CF&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+model+at+a+time;Keep+learning.+Keep+shipping.+Keep+growing." alt="Footer Quote" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mitul-khemani&color=00D9FF&style=flat-square" alt="Profile Views" />
-</div>
-
----
-
-**Last Updated:** January 2026 | *Always learning, always building* 🚀
+<p align="center">
+  <b>Let's build useful AI, end to end.</b><br />
+  <a href="mailto:khemanimitul@gmail.com">khemanimitul@gmail.com</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/mitul-khemani/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://mitul-khemani.vercel.app/">Portfolio</a>
+</p>
