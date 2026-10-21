@@ -33,11 +33,12 @@ Turns natural language event requirements into websites, mobile apps, and promot
 **Focus:** AI generation · Automated deployment · Full-stack orchestration<br />
 **Built with:** FastAPI · Supabase · React Native · Expo · AWS
 
-### 03 &nbsp; [Guru Setu · AI Teacher Support](https://github.com/mitulkhemani2005/Guru-Setu-AI)
+### 03 &nbsp; [AI World · Generational Life Simulation](https://github.com/mitulkhemani2005/AI-World-How-AI-Evolves-the-World)
 
-An AI teaching assistant combining retrieval-augmented generation with question generation, summaries, and voice interaction. Led the team behind the project to the NIT Delhi hackathon finals.
+An experimental playable world where two AI agents make survival and social decisions while their lives unfold across generations. A FastAPI simulation backend manages the world; an independent Three.js frontend displays it on a procedural globe.
 
-**Focus:** RAG · Educational AI · Voice interfaces
+**Focus:** Agent decision-making · Local inference · Simulation systems<br />
+**Built with:** Python · FastAPI · SQLite · Ollama · Three.js
 
 **More to explore:** [F5-TTS work](https://github.com/mitulkhemani2005/TTS_MODEL-F5_TTS) · [Customer support AI](https://github.com/mitulkhemani2005/Auto-Healing-Customer-Chat-Support) · [All repositories](https://github.com/mitulkhemani2005?tab=repositories)
 
@@ -67,7 +68,7 @@ Outside AI, I also built and deployed the [Hotel Shreegopal website](http://hote
 ## Milestones
 
 - **AMD Slingshot · Regional finalist** — Led a three-member team presenting Ek Manch; top 100 teams nationally, with 5,000+ participants.
-- **NIT Delhi Hackathon · Finalist** — Guru Setu shortlisted among the top 65 teams from 400+ submissions.
+- **NIT Delhi Hackathon · Finalist** — Shortlisted among the top 65 teams from 400+ submissions.
 - **LeetCode · Knight** — 490+ data structures and algorithms problems solved.
 
 ---
